@@ -1,0 +1,10 @@
+1. Zmienić nazwę klasy w autoloaderze     $namespacePrefix = 'Weberwin\\NAZWAKLASY\\';
+2. Usunąć menu jeśli konieczne
+3. Usunąć foldery jeśli konieczne
+4. Wyczyścić changelog
+5. Zmienić info o wtyczce
+6. Zmienić nazwę folderu
+7. Zmienić nazwę pliku głównego wtyczki
+8. Zmienić namespace
+9. Plugin.php - zmienić stałe
+10. Usunąć lub zmienić menu

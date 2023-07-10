@@ -1,0 +1,36 @@
+# Changelog
+
+## [1.2.0] - 2023-07-10
+### Added
+- Added new feature for user authentication.
+- Implemented a search functionality for improved user experience.
+- Added a new API endpoint for data retrieval.
+
+### Changed
+- Improved performance by optimizing database queries.
+- Updated the UI design for a more modern look.
+- Refactored code for better maintainability and readability.
+
+### Fixed
+- Fixed a bug causing incorrect calculation of prices.
+- Resolved an issue with file uploads not working in certain scenarios.
+- Fixed broken links on the homepage.
+
+## [1.1.0] - 2023-06-15
+### Added
+- Implemented support for multiple languages.
+- Added a new settings page for customization options.
+- Introduced a new user role with restricted access.
+
+### Changed
+- Restructured the project directory for better organization.
+- Improved error handling and logging mechanism.
+- Updated third-party libraries to their latest versions.
+
+### Fixed
+- Fixed a compatibility issue with PHP 8.
+- Resolved a bug causing incorrect pagination on product listings.
+- Fixed broken images in the product gallery.
+
+## [1.0.0] - 2023-05-01
+- Initial release of the project.
